@@ -11,7 +11,7 @@ Adding a product can be done easy and quickly from the built-in interface. The s
 1. **Navigate to the Products Menu:**  
    In your WordPress dashboard, on the left-hand side menu, hover over "WooCommerce" and then click on "Products" followed by "Add New." 
    
-   [Insert Screenshot 1: WooCommerce Menu with Products highlighted]
+   ![WooCommerce Menu with Products highlighted](https://madebyparry.ddns.net/guides/guides/woocommerce/images/product_dialog.jpg "Products Dialog")
 
 2. **Enter Product Details:**
 
@@ -21,7 +21,7 @@ Adding a product can be done easy and quickly from the built-in interface. The s
 3. **Set Product Data:**  
    This section provides various options to configure your product.  
    
-   [Insert Screenshot 2: Product Data Section]
+   ![Insert Screenshot 2: Product Data Section](https://madebyparry.ddns.net/guides/guides/woocommerce/images/product_data.jpg "Products Data")
 
    - **General:**
 
@@ -41,7 +41,7 @@ Adding a product can be done easy and quickly from the built-in interface. The s
 4. **Add Images:**  
    Compelling product images are crucial for online sales. Click on "Set product image" to upload your main product image. You can also add a gallery of additional images to showcase your product from different angles. 
    
-   [Insert Screenshot 3: Product Image Section]
+   ![Insert Screenshot 3: Product Image Section](https://madebyparry.ddns.net/guides/guides/woocommerce/images/product_image.jpg "Products Image")
 
 5. **Set Sizes with Attributes:**  
    WooCommerce lets you define product variations based on attributes like size (S, M, L, etc.).
@@ -51,7 +51,7 @@ Adding a product can be done easy and quickly from the built-in interface. The s
    - In the "Name" field, enter "Size" (or another relevant attribute name).
    - Under "Values," enter each size variation (e.g., S, M, L) separated by commas. 
 
-   [Insert Screenshot 4: Attributes Tab]
+   ![Insert Screenshot 4: Attributes Tab](https://madebyparry.ddns.net/guides/guides/woocommerce/images/product_attributes.jpg "Products Attributes")
 
    - Now, we need to link this attribute to the product variations. Click on "Variations" and then "Create variations from all attributes." WooCommerce will automatically generate a variation for each size you entered.
 
